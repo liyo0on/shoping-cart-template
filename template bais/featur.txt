@@ -7,3 +7,8 @@ product all item
 loging page
 
 nice meno
+
+
+creat contorol costum for video
+
+creat slider page for top slider left sid video
